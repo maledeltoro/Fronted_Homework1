@@ -58,7 +58,9 @@ main li {
     margin: 5px 0;
 }
 
-
+.experience-item {
+    margin-bottom: 20px;
+}
 
 footer {
     text-align: center;
