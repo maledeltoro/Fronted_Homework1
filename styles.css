@@ -37,6 +37,28 @@ blockquote {
     font-style: italic;
 }
 
+main {
+    padding: 20px;
+    background-color: #fff;
+}
+
+main h2 {
+    color: #ff6699;
+    border-bottom: 2px solid #ff99cc;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+main ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+main li {
+    margin: 5px 0;
+}
+
+
 
 footer {
     text-align: center;
